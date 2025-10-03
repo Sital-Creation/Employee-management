@@ -1,0 +1,11 @@
+bin/
+obj/
+*.user
+*.suo
+*.dll
+*.pdb
+*.cache
+.vs/
+node_modules/
+dist/
+Employee_UI/
